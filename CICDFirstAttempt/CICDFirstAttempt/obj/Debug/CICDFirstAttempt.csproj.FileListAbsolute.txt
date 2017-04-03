@@ -1,0 +1,6 @@
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\bin\Debug\CICDFirstAttempt.exe.config
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\bin\Debug\CICDFirstAttempt.exe
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\bin\Debug\CICDFirstAttempt.pdb
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\obj\Debug\CICDFirstAttempt.csprojResolveAssemblyReference.cache
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\obj\Debug\CICDFirstAttempt.exe
+C:\Users\Surabh\Desktop\CICDFirstAttempt\CICDFirstAttempt\CICDFirstAttempt\obj\Debug\CICDFirstAttempt.pdb
